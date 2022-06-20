@@ -1,16 +1,16 @@
 //=============『 Utama 』================== //
-global.owner = ['6282138919347'] 
+global.owner = ['6285876810596'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Helga Zexs'
-global.numberowner = '6282138919347'
-global.instagram = 'https://instagram.com/helga_store20'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '081398860278'
-global.pulsa = '082138919347'
-global.gopay = '081398860278'
+global.nameowner = 'Rizki Modzz'
+global.numberowner = '6285876810596'
+global.instagram = 'https://instagram.com/rizzkymaa'
+global.github = 'https://github.com/MasRiizzz'
+global.dana = '085876810596'
+global.pulsa = '085876810596'
+global.gopay = '085876810596'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'ShiroBot-Md'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Helga Zexs'
+global.author = '© Rizki Muhammad Adam'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
