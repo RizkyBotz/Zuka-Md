@@ -8,7 +8,7 @@ hyzer = {
     },
   message: { 
   "extendedTextMessage": {
-  "text": '*Sama-Sama*',
+  "text": '*Sama-Sama Kack🐣*',
   "title": wm,
   'jpegThumbnail': 'https://telegra.ph/file/20509b31b6e05ff999daa.jpg',
         }
